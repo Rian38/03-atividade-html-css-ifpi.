@@ -1,0 +1,48 @@
+body{
+  font-family: Arial;
+  font-size: 1rem;
+  background: linear-gradient(#b3cce2,#D9CCC1);
+}
+
+h1{
+  font-size: 3rem;
+  letter-spacing: 0.5rem;
+  text-align: center;
+  background-color: #005eb0;
+  color: #D9CCC1;
+}
+
+h2{
+  font-size: 1.5rem;
+  background-color: #005eb0;
+  color: #D9CCC1;
+}
+
+p{
+  font-size: 1rem;
+  color: #024059;
+}
+
+pre {
+    background-color: #eeeeee;
+    padding: 10px;
+}
+.citacao {
+    font-style: italic;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.autor, .data {
+    color: darkslategray;
+    font-style: italic;
+}
+
+.autor {
+    text-align: right;
+}
+
+.data {
+    text-align: left;
+    font-size: 0.8rem;
+}
