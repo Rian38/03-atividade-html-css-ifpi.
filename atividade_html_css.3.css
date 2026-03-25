@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
 body{
   font-family: Arial;
   font-size: 1rem;
@@ -23,10 +25,6 @@ p{
   color: #024059;
 }
 
-pre {
-    background-color: #eeeeee;
-    padding: 10px;
-}
 .citacao {
     font-style: italic;
     line-height: 1.5;
